@@ -1,1 +1,4 @@
-name='new1'
+name='madhu'
+
+print name, "good morning"
+
